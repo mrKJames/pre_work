@@ -73,22 +73,21 @@ The first goal of this lesson is to ensure organization. The second goal is to a
 Please email me with any questions or if you get stuck! I will be around campus until August.
 
 ## Course Norms:
-Every time you write a program, the follow will be expected:
+Every time you write a program, the following will be expected:
 
-- All programs must have comments
+- All programs must have comments explaining what your code is doing
 - After each program, I will ask you to explain your work in a short paragraph (3-5 sentences)
 
 ## Exams
-You will only have two tests this year. A midterm and a final. Both of which are old IB exams. If you give this your all, you will ace the course and IB exam!
-
-This means you will have to do work outside of class in order to pass the exams.
+You will only have two tests this year. A midterm and a final. The exams carry a large weight of your grade and will be built up to in the course.
 
 
 ## Part One: Terminal Commands
-Create the following file structure in a root dir on your desktop called year_one_ibcs. Complete this task using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project!
+Create the following file structure in a dir on your desktop called year_one_ibcs. Complete this task using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
 [learn terminal 1](https://www.learnenough.com/command-line-tutorial)
 [learn terminal 2](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
+
 In order to create part one, you'll need to know how to:
 
 - navigate in the terminal  		(cd)
@@ -98,8 +97,12 @@ In order to create part one, you'll need to know how to:
 - run a ruby and python program
 - what a file path is
 
+These are the basic building blocks of the course. 
+
 ## Warning: With great power comes great responsibility
-Deleting files/folders in the terminal is a bad idea. Dont do anything in the terminal you are unsure about!!!
+- Deleting files/folders in the terminal is a bad idea. 
+- Dont do anything in the terminal you are unsure about!!! 
+- Never copy and paste in the terminal!
 
 ### Directories at the root level:
 Once you have learned enough terminal to be dangerous, make the following file structure:
@@ -118,15 +121,15 @@ Once you have learned enough terminal to be dangerous, make the following file s
 These are all the topics covered in year one
 
 ### Directories within each unit
-All directories need the following three folders inside of them
+All directories need the following two folders and one file inside of them
 - programming
 - projects
-- notes
+- readme.md
 
 
 ## Part Two: User Documentation
 
-Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and create a bio in unit_0. You can fill with any information you like. Just make sure to include:
+Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and create a bio in unit_0/readme.md. You can fill with any information you like. Just make sure to include:
 
 - what you want out of the class
 - experience level
@@ -136,20 +139,20 @@ Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Ch
 ## Part Three: Hello World
 On the first day of class, you will be asked to run your hello_world program as your introduction to the class. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
 
-A string is a form of datatype in programming, which is composed of a sequence of characters.
+A string is a form of datatype in programming, which is composed of a sequence of characters. Think ""
 
 #### How-to
 In unit_0/programming create a file called hello_world. If you want to use ruby add .rb to the end of the file, and if you want to use python use .py at the end of the file. The extension lets the computer know what language to expect.
 
 Example:
 
-ruby: unit_0/programming/hello_world.rb
+ruby: file path => unit_0/programming/hello_world.rb
 ```ruby
 puts "Hello, I'm Mr. James and I'm from Chicago and loves dogs"
 puts "Machine learning is my hobby, and I one day want to live on Mars"
 ```
 
-python: unit_0/programming/hello_world.py
+python: file path => unit_0/programming/hello_world.py
 ```python3
 print("Hello, I'm Mr. James and I'm from Chicago and loves dogs")
 print("Machine learning is my hobby, and I one day want to live on Mars")
