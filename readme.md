@@ -65,7 +65,7 @@ Make sure you keep it professional. This is how the whole programming world will
 What is IBCS? Well, it is meant to teach you about hardware, software, networks, programming, the design cycle, version control, etc. There is a ton of material. So, being organized is key.
 
 
-The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning often times, you will feel lost, confused, and overwhelmed. This is completely normal. All you need to do is accept that this is normal and try your best!
+The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning, often times you will feel lost, confused, and overwhelmed. This is completely normal when learning a new subject. All you need to do is accept that this is normal and try your best!
 
 Please email me with any questions or if you get stuck! I will be around campus until August.
 
@@ -87,15 +87,15 @@ You will only have two tests this year. A midterm and a final. The exams carry a
 
 The rest of your grade will be determined by projects completed in class- which is a huge bulk of the grade. Projects will consist of commented code and user documentation.
 
-The last major component is giving a ted talk on a culminating project. This can be on your IA or a completely different topic.
+The last major component is giving a ted talk on a culminating project.
 
 
 
 ## Part One: Terminal Commands
-Create the following file structure in a dir on your desktop called year_one_ibcs. Complete this task using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
+ Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
-[learn terminal 1](https://www.learnenough.com/command-line-tutorial)
-[learn terminal 2](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
+- [full story](https://www.learnenough.com/command-line-tutorial)
+- [tl;dr](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
 
 In order to create part one, you'll need to know how to:
 
@@ -105,6 +105,7 @@ In order to create part one, you'll need to know how to:
 - remove folders/files      		(rm)
 - run a ruby and python program
 - what a file path is
+- root level
 
 These are the basic building blocks of the course.
 
@@ -114,7 +115,7 @@ These are the basic building blocks of the course.
 - Never copy and paste in the terminal!
 
 ### Directories at the root level:
-Once you have learned enough terminal to be dangerous, make the following file structure:
+Create the following file structure in a dir on your desktop called year_one_ibcs. Make the following file structure at your year_one_ibcs root level:
 - unit_0
 - unit_1
 - unit_2
@@ -127,13 +128,15 @@ Once you have learned enough terminal to be dangerous, make the following file s
 - control
 - extras
 
-These are all the topics covered in year one
+These are all the topics covered in year one.
 
-### Directories within each unit
+### Directories within each folder
 All directories need the following two folders and one file inside of them
 - programming
 - projects
 - readme.md
+
+we can tell readme.md is a file simply by noting the extension at the end. .md tells us that this is a markdown file. Similarly a .rb means ruby, and .py means python.
 
 
 ## Part Two: User Documentation
@@ -146,28 +149,28 @@ Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Ch
 - a snippet of code that stands out to you (not too long!)
 
 ## Part Three: Hello World
-On the first day of class, you will be asked to run your hello_world program as your introduction to the class. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
+On the first day of class, you will be asked to run your hello_world program as your introduction to the class and then push your year_one_ibcs folder to github. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
 
 A string is a form of datatype in programming, which is composed of a sequence of characters. Think ""
 
 #### How-to
-In unit_0/programming create a file called hello_world. If you want to use ruby add .rb to the end of the file, and if you want to use python use .py at the end of the file. The extension lets the computer know what language to expect.
+In year_one_ibcs/unit_0/programming (that's your file path) create a file called hello_world. If you want to use ruby add .rb to the end of the file, and if you want to use python use .py at the end of the file. The extension lets the computer know what language to expect.
 
 Example:
 
-ruby: file path => unit_0/programming/hello_world.rb
+ruby: file path => year_one_ibcs/unit_0/programming/hello_world.rb
 ```ruby
 puts "Hello, I'm Mr. James and I'm from Chicago and loves dogs"
 puts "Machine learning is my hobby, and I one day want to live on Mars"
 ```
 
-python: file path => unit_0/programming/hello_world.py
+python: file path => year_one_ibcs/unit_0/programming/hello_world.py
 ```python3
 print("Hello, I'm Mr. James and I'm from Chicago and loves dogs")
 print("Machine learning is my hobby, and I one day want to live on Mars")
 ```
 
-To run the program, navigate your terminal to the same dir level. Type ls in the terminal. You should see your program.
+To run the program, navigate your terminal to the same dir level (or run using your file path). Type ls in the terminal. You should see your program.
 
 ```bash
 ls
@@ -193,6 +196,14 @@ The terminal will give you clues as to why your program isn't working. For this 
 
 - you saved the program
 - you have the right file path when running the program
+
+If you can't see your file
+
+```bash
+[Errno 2] No such file or directory
+```
+
+you aren't in the right location. Use your terminal commands to navigate. Here is your file path: year_one_ibcs/unit_0/programming/hello_world
 
 ## Policies
 
