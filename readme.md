@@ -75,8 +75,20 @@ Every time you write a program, the following will be expected:
 - All programs must have comments explaining what your code is doing
 - After each program, I will ask you to explain your work in a short paragraph (3-5 sentences)
 
-## Exams
-You will only have two tests this year. A midterm and a final. The exams carry a large weight of your grade and will be built up to in the course.
+## Grading
+The breakdown is simple:
+
+- projects
+- midterm
+- final
+- ted talk
+
+You will only have two tests this year. A midterm and a final. The exams carry a large weight of your grade and will be built up to in the course. All exams are culminating and will be completed in blue books (aka paper).
+
+The rest of your grade will be determined by projects completed in class- which is a huge bulk of the grade. Projects will consist of commented code and user documentation.
+
+The last major component is giving a ted talk on a culminating project. This can be on your IA or a completely different topic.
+
 
 
 ## Part One: Terminal Commands
