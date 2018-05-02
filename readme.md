@@ -13,28 +13,28 @@ Here is your user documentation for the first lesson. This guide will take you t
 - gitlab
 
 
-## Slack: Sign up for and download slack. 
+## Slack: Sign up for and download slack.
 
 This is how you will get class notes and todos. Slack is basically taking all the good parts of email and leaving the bad parts behind
 
 - [slack](https://slack.com/signin)
 
-our team name is ibcs2018
+our team name is xxxxxxx
 
 ### If you have questions:
 
 In slack, there is a channel called q&a. You can post and answer questions here. I will also check this channel everyday, giving help as needed.
 
-## Download sublime text 3:
+## Download Atom:
 
 This will be your IDE for the course. The terminal is where you will run your code.
 
-- [sublime](https://www.sublimetext.com/3)
+- [atom](https://atom.io/)
+- enable teletype
+- file-icons
+-tokamak-terminal
+- and your own theme
 
-To really make sublime your own, check out what plugins it has
-- [make sublime great](https://packagecontrol.io/)
-- [wow my life is so easy now](https://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/)
- 
 
 ## Download homebrew:
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
@@ -42,12 +42,7 @@ This is your package manager. Basically, it is an easy way to download software,
 
 ## Install Oh-my-zsh:
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-
-### For advanced users only:
-If you are new to the terminal, skip this part. You can seriously damage your computer if you mess up these steps!
-
-- enable st . as a hotkey for sublime
-- [Here is the documentation](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sublime)
+- check out a few plugins you want to use
 
 ## Install python3 with brew
 ``` bash
@@ -65,7 +60,7 @@ Make sure you keep it professional. This is how the whole programming world will
 
 
 # Project Initium
-What is IBCS? Well, it is meant to teach you about hardware, software, networks, programming, the design cycle, version control, etc. There is a ton of material. So, being organized is key. 
+What is IBCS? Well, it is meant to teach you about hardware, software, networks, programming, the design cycle, version control, etc. There is a ton of material. So, being organized is key.
 
 
 The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning often times, you will feel lost, confused, and overwhelmed. This is completely normal. All you need to do is accept that this is normal and try your best!
@@ -97,11 +92,11 @@ In order to create part one, you'll need to know how to:
 - run a ruby and python program
 - what a file path is
 
-These are the basic building blocks of the course. 
+These are the basic building blocks of the course.
 
 ## Warning: With great power comes great responsibility
-- Deleting files/folders in the terminal is a bad idea. 
-- Dont do anything in the terminal you are unsure about!!! 
+- Deleting files/folders in the terminal is a bad idea.
+- Dont do anything in the terminal you are unsure about!!!
 - Never copy and paste in the terminal!
 
 ### Directories at the root level:
@@ -185,11 +180,10 @@ The terminal will give you clues as to why your program isn't working. For this 
 - you saved the program
 - you have the right file path when running the program
 
-## Policies 
+## Policies
 
-- Life happens, if you are going to turn work in late I need an email 48 hours before the work is due asking for an extension. 
+- Life happens, if you are going to turn work in late I need an email 48 hours before the work is due asking for an extension.
 
 - Office hours are a real thing! Many students will need to take advantage of this during the year
 
-- If you need a letter of reference, allow at least seven days for completion 
-
+- If you need a letter of reference, allow at least seven days for completion
