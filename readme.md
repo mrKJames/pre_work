@@ -32,7 +32,7 @@ This will be your IDE for the course. The terminal is where you will run your co
 - [atom](https://atom.io/)
 - enable teletype
 - file-icons
--tokamak-terminal
+- tokamak-terminal
 - and your own theme
 
 
