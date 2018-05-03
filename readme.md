@@ -37,7 +37,7 @@ This will be your IDE for the course. The terminal is where you will run your co
 - tokamak-terminal
 - and your own theme
 
-![ide]("https://github.com/profShiba/pre_work/blob/master/pics/ide.png")
+![ide](https://github.com/profShiba/pre_work/blob/master/pics/ide.png)
 
 
 
