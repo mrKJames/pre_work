@@ -37,6 +37,9 @@ This will be your IDE for the course. The terminal is where you will run your co
 - tokamak-terminal
 - and your own theme
 
+![ide]('pics/ide.png')
+
+
 
 ## Download homebrew:
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
