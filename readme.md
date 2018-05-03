@@ -55,6 +55,10 @@ brew install python
 ```bash
 brew install ruby
 ```
+## Install Node
+```bash
+brew install node
+```
 
 ## Create a GitHub account
 Make sure you keep it professional. This is how the whole programming world will know you
