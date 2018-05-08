@@ -1,5 +1,5 @@
 # Hello and welcome to year one IBCS!
-![welcome](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjy5rHrxaYC64zXciPI7NVxNyJCUk8sqFa9V797qX3lgZwRMvm)
+![welcome](http://i0.kym-cdn.com/photos/images/facebook/000/217/040/48ACD.png)
 
 Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developers environment. Make sure your are familiar with the following terms:
 
