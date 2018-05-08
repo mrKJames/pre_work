@@ -14,12 +14,14 @@ Here is your user documentation for the first lesson. This guide will take you t
 
 
 ## Slack: Sign up for and download slack.
+![slack}(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKscP8y4mmanOVVWYYSmVULFZ26DQ671QCgi44ug-oWGpjqXo6A)
 
 This is how you will get class notes and todos. Slack is basically taking all the good parts of email and leaving the bad parts behind
 
 - [slack](https://slack.com/signin)
 
 our team name is ibcs2018
+
 
 ### If you have questions:
 
@@ -37,16 +39,20 @@ This will be your IDE for the course. The terminal is where you will run your co
 - tokamak-terminal
 - and your own theme
 
+![atom ided](http://i.imgur.com/qYa5q9S.png)
+
 
 
 
 ## Download homebrew:
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
 - [brew](https://brew.sh/)
+![brew](https://s3.amazonaws.com/stackabuse/media/homebrew-website.jpg)
 
 ## Install Oh-my-zsh:
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - check out a few plugins you want to use
+![zsh](https://mobomo.s3.amazonaws.com/uploads/external/zsh_prompt_annotated_small.png)
 
 ## Install python3 with brew
 ``` bash
@@ -63,8 +69,10 @@ brew install node
 ```
 
 ## Create a GitHub account
+![git](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
 Make sure you keep it professional. This is how the whole programming world will know you
 - [github](https://github.com/)
+
 
 
 # Project Initium
@@ -74,6 +82,7 @@ What is IBCS? Well, it is meant to teach you about hardware, software, networks,
 The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning, often times you will feel lost, confused, and overwhelmed. This is completely normal when learning a new subject. All you need to do is accept that this is normal and try your best!
 
 Please email me with any questions or if you get stuck! I will be around campus until August.
+![dog](http://i0.kym-cdn.com/photos/images/original/000/234/765/b7e.jpg)
 
 ## Course Norms:
 Every time you write a program, the following will be expected:
@@ -98,6 +107,7 @@ The last major component is giving a ted talk on a culminating project.
 
 
 ## Part One: Terminal Commands
+
  Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
 - [full story](https://www.learnenough.com/command-line-tutorial)
@@ -119,6 +129,7 @@ These are the basic building blocks of the course.
 - Deleting files/folders in the terminal is a bad idea.
 - Dont do anything in the terminal you are unsure about!!!
 - Never copy and paste in the terminal!
+
 
 ### Directories at the root level:
 Create the following file structure in a dir on your desktop called year_one_ibcs. Make the following file structure at your year_one_ibcs root level:
