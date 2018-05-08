@@ -83,6 +83,7 @@ What is IBCS? Well, it is meant to teach you about hardware, software, networks,
 The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning, often times you will feel lost, confused, and overwhelmed. This is completely normal when learning a new subject. All you need to do is accept that this is normal and try your best!
 
 Please email me with any questions or if you get stuck! I will be around campus until August.
+
 ![dog](http://i0.kym-cdn.com/photos/images/original/000/234/765/b7e.jpg)
 
 ## Course Norms:
@@ -166,7 +167,7 @@ Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Ch
 - some sort of picture
 - a snippet of code that stands out to you (not too long!)
 
-## Part Three: Hello World
+## Part Three:
 ![hello world](https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
 On the first day of class, you will be asked to run your hello_world program as your introduction to the class and then push your year_one_ibcs folder to github. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
 
@@ -211,7 +212,6 @@ python3 hello_world.py
 Your terminal should now show the strings you have programmed. Congrats!!!
 
 #### Debug
-![debug](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
 
 The terminal will give you clues as to why your program isn't working. For this program, if you are having trouble, check to make sure
 
