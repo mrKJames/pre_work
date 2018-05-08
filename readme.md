@@ -1,4 +1,5 @@
 # Hello and welcome to year one IBCS!
+![welcome](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjy5rHrxaYC64zXciPI7NVxNyJCUk8sqFa9V797qX3lgZwRMvm)
 
 Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developers environment. Make sure your are familiar with the following terms:
 
@@ -14,7 +15,7 @@ Here is your user documentation for the first lesson. This guide will take you t
 
 
 ## Slack: Sign up for and download slack.
-![slack}(https://cdn0.iconfinder.com/data/icons/tuts/256/slack_alt.png)
+![slack](https://cdn0.iconfinder.com/data/icons/tuts/256/slack_alt.png)
 
 This is how you will get class notes and todos. Slack is basically taking all the good parts of email and leaving the bad parts behind
 
@@ -47,7 +48,7 @@ This will be your IDE for the course. The terminal is where you will run your co
 ## Download homebrew:
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
 - [brew](https://brew.sh/)
-![brew](https://s3.amazonaws.com/stackabuse/media/homebrew-website.jpg)
+![brew](https://derrekyoung.files.wordpress.com/2016/08/homebrew-mac-osx-logo.png?w=640)
 
 ## Install Oh-my-zsh:
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -166,6 +167,7 @@ Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Ch
 - a snippet of code that stands out to you (not too long!)
 
 ## Part Three: Hello World
+![hello world](https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
 On the first day of class, you will be asked to run your hello_world program as your introduction to the class and then push your year_one_ibcs folder to github. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
 
 A string is a form of datatype in programming, which is composed of a sequence of characters. Think ""
@@ -209,6 +211,8 @@ python3 hello_world.py
 Your terminal should now show the strings you have programmed. Congrats!!!
 
 #### Debug
+![debug](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
+
 The terminal will give you clues as to why your program isn't working. For this program, if you are having trouble, check to make sure
 
 - you saved the program
