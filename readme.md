@@ -14,7 +14,7 @@ Here is your user documentation for the first lesson. This guide will take you t
 
 
 ## Slack: Sign up for and download slack.
-![slack}(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKscP8y4mmanOVVWYYSmVULFZ26DQ671QCgi44ug-oWGpjqXo6A)
+![slack}(https://cdn0.iconfinder.com/data/icons/tuts/256/slack_alt.png)
 
 This is how you will get class notes and todos. Slack is basically taking all the good parts of email and leaving the bad parts behind
 
