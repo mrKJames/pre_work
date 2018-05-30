@@ -1,4 +1,5 @@
-# Hello and welcome to year one IBCS!
+# Hello
+## Welcome to year one IBCS!
 ![welcome](http://i0.kym-cdn.com/photos/images/facebook/000/217/040/48ACD.png)
 
 Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developer's environment. Make sure your are familiar with the following terms:
