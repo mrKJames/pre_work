@@ -1,7 +1,7 @@
 # Hello and welcome to year one IBCS!
 ![welcome](http://i0.kym-cdn.com/photos/images/facebook/000/217/040/48ACD.png)
 
-Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developers environment. Make sure your are familiar with the following terms:
+Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developer's environment. Make sure your are familiar with the following terms:
 
 - [what is user documentation](http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/slc_stages/miniweb/pg20.htm)
 - [what is a developers environment](https://en.wikipedia.org/wiki/Deployment_environment)
@@ -42,17 +42,20 @@ This will be your IDE for the course. The terminal is where you will run your co
 
 ![atom ided](http://i.imgur.com/qYa5q9S.png)
 
-
+# Terminal
+"A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line"
+To access this on a MAC, just do a spotlight search for terminal.
 
 
 ## Download homebrew:
-This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
 - [brew](https://brew.sh/)
+This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
+
 ![brew](https://derrekyoung.files.wordpress.com/2016/08/homebrew-mac-osx-logo.png?w=640)
 
 ## Install Oh-my-zsh:
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- check out a few plugins you want to use
+- Optional: check out a few plugins you want to use
 ![zsh](https://mobomo.s3.amazonaws.com/uploads/external/zsh_prompt_annotated_small.png)
 
 ## Install python3 with brew
