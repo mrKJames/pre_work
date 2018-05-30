@@ -168,7 +168,27 @@ Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Ch
 - what you want out of the class
 - experience level
 - some sort of picture
-- a snippet of code that stands out to you (not too long!)
+- Write the most complex program you can in under 10 lines of code. This might just be a print statement. This is so I may gather the range of experience in the class. Remember, you don't need any experience to take this course!
+
+Example 1
+
+```python3
+def kebabize(s):
+    new = list(s)
+    new_list = []
+    for i in new:
+        if i.isupper():
+            i = "-"+i.lower()
+        new_list.append(i)
+    done = ''.join(i for i in new_list if not i.isdigit())
+    return done.strip('- ')
+ ```
+ 
+ Example 2
+ ```ruby
+ puts " oh boy, this is all I know"
+ puts " and that is 100% fine!"
+ ```
 
 ## Part Three:
 ![hello world](https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
