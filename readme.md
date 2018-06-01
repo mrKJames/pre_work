@@ -22,7 +22,6 @@ This is how you will get class notes and todos. Slack is basically taking all th
 
 - [slack](https://slack.com/signin)
 
-our team name is ibcs2018
 
 
 ### If you have questions:
