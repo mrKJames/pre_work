@@ -25,7 +25,7 @@ Make sure you keep it professional. This is how the whole programming world will
 
 
 # Choose Your Own Adventure 
-- If you have never used the terminal, you should work via [code academy](https://www.codecademy.com/learn/learn-the-command-line). Just do the nav lesson and know the following and you are all set!
+##If you have never used the terminal, you should work via [code academy](https://www.codecademy.com/learn/learn-the-command-line). Just do the nav lesson and know the following and you are all set!
 
 - navigate in the terminal  		(cd)
 - create folders					(mkdir)
@@ -38,7 +38,7 @@ Make sure you keep it professional. This is how the whole programming world will
 These are the basic building blocks of the course.
 
 
-- Else, you have programming experience and have used the terminal for more than 3 months, read the rest of this document.
+##Else, you have programming experience and have used the terminal for more than 3 months, read the rest of this document.
 
 # Advanced Options 
 
