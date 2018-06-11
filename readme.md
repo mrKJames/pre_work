@@ -10,7 +10,7 @@ This will be your IDE for the course. An IDE stands for integrated development e
 
 - [atom](https://atom.io/)
 
-### Advanced Options
+### Advanced Options (Meaning, if you want to)
 - enable teletype
 - file-icons
 - tokamak-terminal
