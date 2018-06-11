@@ -10,11 +10,6 @@ This will be your IDE for the course. An IDE stands for integrated development e
 
 - [atom](https://atom.io/)
 
-### Advanced Options (Meaning, if you want to)
-- enable teletype
-- file-icons
-- tokamak-terminal
-- and your own theme
 
 ![atom ided](http://i.imgur.com/qYa5q9S.png)
 
@@ -30,31 +25,7 @@ Make sure you keep it professional. This is how the whole programming world will
 
 
 # Choose Your Own Adventure 
-- If you have never used the terminal, you should work via [code academy](https://www.codecademy.com/learn/learn-the-command-line). Just do the nav lesson and you are done. Congrats!
-
-
-- Else, you have programming experience and have used the terminal for more than 3 months, read the rest of this document.
-
-
-
-
-## Project 0 Terminal Commands
-
-"A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line"
-
-To access this on a MAC, just do a spotlight search (cmd space) for terminal. If that does not work for some reason, simply go into finder->applications->utilities and launch it.
-
-## Warning: With great power comes great responsibility
-- Deleting files/folders in the terminal is a bad idea.
-- Dont do anything in the terminal you are unsure about!!!
-- Never copy and paste in the terminal!
-
-Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
-
-- [full story](https://www.learnenough.com/command-line-tutorial)
-- [tl;dr](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
-
-In order to create part one, you'll need to know how to:
+- If you have never used the terminal, you should work via [code academy](https://www.codecademy.com/learn/learn-the-command-line). Just do the nav lesson and know the following and you are all set!
 
 - navigate in the terminal  		(cd)
 - create folders					(mkdir)
@@ -67,9 +38,21 @@ In order to create part one, you'll need to know how to:
 These are the basic building blocks of the course.
 
 
+- Else, you have programming experience and have used the terminal for more than 3 months, read the rest of this document.
+
+# Advanced Options 
+
+For Atom:
+
+- enable teletype
+- file-icons
+- tokamak-terminal
+- and your own theme
+
 
 ### Directories at the root level:
 Create the following file structure in a dir on your desktop called year_one_ibcs. Make the following file structure at your year_one_ibcs root level:
+
 - unit_0
 - unit_1
 - unit_2
@@ -85,6 +68,7 @@ Create the following file structure in a dir on your desktop called year_one_ibc
 These are all the topics covered in year one.
 
 ### Directories within each folder
+
 All directories need the following two folders and one file inside of them
 - programming
 - projects
@@ -93,9 +77,8 @@ All directories need the following two folders and one file inside of them
 we can tell readme.md is a file simply by noting the extension at the end. .md tells us that this is a markdown file. Similarly a .rb means ruby, and .py means python.
 
 
+# Even More Advanced Options 
 
-
-# Advanced Options 
 ## Download homebrew:
 - [brew](https://brew.sh/)
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
