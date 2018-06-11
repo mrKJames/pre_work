@@ -34,6 +34,11 @@ Make sure you keep it professional. This is how the whole programming world will
 
 To access this on a MAC, just do a spotlight search (cmd space) for terminal. If that does not work for some reason, simply go into finder->applications->utilities and launch it.
 
+## Warning: With great power comes great responsibility
+- Deleting files/folders in the terminal is a bad idea.
+- Dont do anything in the terminal you are unsure about!!!
+- Never copy and paste in the terminal!
+
 Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
 - [full story](https://www.learnenough.com/command-line-tutorial)
@@ -51,10 +56,6 @@ In order to create part one, you'll need to know how to:
 
 These are the basic building blocks of the course.
 
-## Warning: With great power comes great responsibility
-- Deleting files/folders in the terminal is a bad idea.
-- Dont do anything in the terminal you are unsure about!!!
-- Never copy and paste in the terminal!
 
 
 ### Directories at the root level:
