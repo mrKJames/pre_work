@@ -1,40 +1,16 @@
-# Hello
-## Welcome to year one IBCS!
+# Welcome to year one IBCS!
 ![welcome](http://i0.kym-cdn.com/photos/images/facebook/000/217/040/48ACD.png)
 
-Here is your user documentation for the first lesson. This guide will take you through the steps of setting up a developer's environment. Make sure your are familiar with the following terms:
+This guide will take you through the basics of getting your computer ready for the course. The advanced options are there in case you want to go above and beyond. Everyone will be at a different level coming into the course. It is alright to know nothing and it is alright to know a lot. I have designed the start of the year to even the playing field so to speak. So, be happy where you are, and know you will learn!
 
-- [what is user documentation](http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/slc_stages/miniweb/pg20.htm)
-- [what is a developers environment](https://en.wikipedia.org/wiki/Deployment_environment)
-- [IDE](https://computersciencewiki.org/index.php/IDE)
-- [package manager](https://en.wikipedia.org/wiki/Package_manager)
-- [version control](https://whatis.techtarget.com/definition/version-control)
-- [object-oriented programming](https://computersciencewiki.org/index.php/Object-Oriented_Programming)
-- [terminal](https://www.quora.com/In-coding-terms-what-is-a-terminal-and-what-is-it-used-for)
-- slack
-- gitlab
-
-
-## Slack: Sign up for and download slack.
-![slack](https://cdn0.iconfinder.com/data/icons/tuts/256/slack_alt.png)
-
-This is how you will get class notes and todos. Slack is basically taking all the good parts of email and leaving the bad parts behind
-
-- [slack](https://slack.com/signin)
-
-
-
-### If you have questions:
-
-In slack, there is a channel called q&a. You can post and answer questions here. I will also check this channel everyday, giving help as needed.
-
-After you download Atom, you can share your code with me much like a google document.
 
 ## Download Atom:
 
-This will be your IDE for the course. The terminal is where you will run your code.
+This will be your IDE for the course. An IDE stands for integrated development environment. Atom is where you will write and run your code. Where you write your code we will call a text editor, and where you run your code we will call the terminal.
 
 - [atom](https://atom.io/)
+
+### Advanced Options
 - enable teletype
 - file-icons
 - tokamak-terminal
@@ -42,78 +18,23 @@ This will be your IDE for the course. The terminal is where you will run your co
 
 ![atom ided](http://i.imgur.com/qYa5q9S.png)
 
-# Terminal
-"A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line"
-To access this on a MAC, just do a spotlight search for terminal.
 
-
-## Download homebrew:
-- [brew](https://brew.sh/)
-This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
-
-![brew](https://derrekyoung.files.wordpress.com/2016/08/homebrew-mac-osx-logo.png?w=640)
-
-## Install Oh-my-zsh:
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- Optional: check out a few plugins you want to use
-![zsh](https://mobomo.s3.amazonaws.com/uploads/external/zsh_prompt_annotated_small.png)
-
-## Install python3 with brew
-``` bash
-brew install python
-```
-
-## Make sure ruby is up to date
-```bash
-brew install ruby
-```
-## Install Node
-```bash
-brew install node
-```
 
 ## Create a GitHub account
+This is where you will store your code and share/build with other. You just need to create an account for now.
+
+
 ![git](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
 Make sure you keep it professional. This is how the whole programming world will know you
 - [github](https://github.com/)
 
+## Project 0 Terminal Commands
 
+"A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line"
 
-# Project Initium
-What is IBCS? Well, it is meant to teach you about hardware, software, networks, programming, the design cycle, version control, etc. There is a ton of material. So, being organized is key.
+To access this on a MAC, just do a spotlight search (cmd space) for terminal. If that does not work for some reason, simply go into finder->applications->utilities and launch it.
 
-
-The first goal of this lesson is to ensure organization. The second goal is to acquaint you with a project-based class. The final goal is to introduce you to managing ambiguity, meaning, often times you will feel lost, confused, and overwhelmed. This is completely normal when learning a new subject. All you need to do is accept that this is normal and try your best!
-
-Please email me with any questions or if you get stuck! I will be around campus until August.
-
-![dog](http://i0.kym-cdn.com/photos/images/original/000/234/765/b7e.jpg)
-
-## Course Norms:
-Every time you write a program, the following will be expected:
-
-- All programs must have comments explaining what your code is doing
-- After each program, I will ask you to explain your work in a short paragraph (3-5 sentences)
-
-## Grading
-The breakdown is simple:
-
-- projects
-- midterm
-- final
-- ted talk
-
-You will only have two tests this year. A midterm and a final. The exams carry a large weight of your grade and will be built up to in the course. All exams are culminating and will be completed in blue books (aka paper).
-
-The rest of your grade will be determined by projects completed in class- which is a huge bulk of the grade. Projects will consist of commented code and user documentation.
-
-The last major component is giving a ted talk on a culminating project.
-
-
-
-## Part One: Terminal Commands
-
- Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
+Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
 - [full story](https://www.learnenough.com/command-line-tutorial)
 - [tl;dr](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
@@ -161,7 +82,35 @@ All directories need the following two folders and one file inside of them
 we can tell readme.md is a file simply by noting the extension at the end. .md tells us that this is a markdown file. Similarly a .rb means ruby, and .py means python.
 
 
-## Part Two: User Documentation
+
+
+# Advanced Options 
+## Download homebrew:
+- [brew](https://brew.sh/)
+This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
+
+![brew](https://derrekyoung.files.wordpress.com/2016/08/homebrew-mac-osx-logo.png?w=640)
+
+## Install Oh-my-zsh:
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- Optional: check out a few plugins you want to use
+![zsh](https://mobomo.s3.amazonaws.com/uploads/external/zsh_prompt_annotated_small.png)
+
+## Install python3 with brew
+``` bash
+brew install python
+```
+
+## Make sure ruby is up to date
+```bash
+brew install ruby
+```
+## Install Node
+```bash
+brew install node
+```
+
+## User Documentation
 
 Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and create a bio in unit_0/readme.md. You can fill with any information you like. Just make sure to include:
 
@@ -190,7 +139,7 @@ def kebabize(s):
  puts " and that is 100% fine!"
  ```
 
-## Part Three:
+## Hello World:
 ![hello world](https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
 On the first day of class, you will be asked to run your hello_world program as your introduction to the class and then push your year_one_ibcs folder to github. Hello world is a programming tradition when learning a new language. For your hello world, you will print out a few strings from your bio.
 
@@ -249,10 +198,3 @@ If you can't see your file
 
 you aren't in the right location. Use your terminal commands to navigate. Here is your file path: year_one_ibcs/unit_0/programming/hello_world
 
-## Policies
-
-- Life happens, if you are going to turn work in late I need an email 48 hours before the work is due asking for an extension.
-
-- Office hours are a real thing! Many students will need to take advantage of this during the year
-
-- If you need a letter of reference, allow at least seven days for completion
