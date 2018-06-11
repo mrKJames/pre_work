@@ -28,6 +28,16 @@ This is where you will store your code and share/build with other. You just need
 Make sure you keep it professional. This is how the whole programming world will know you
 - [github](https://github.com/)
 
+
+# Choose Your Own Adventure 
+- If you have never used the terminal, you should work via [code academy](https://www.codecademy.com/learn/learn-the-command-line). Just do the nav lesson and you are done. Congrats!
+
+
+- Else, you have programming experience and have used the terminal for more than 3 months, read the rest of this document.
+
+
+
+
 ## Project 0 Terminal Commands
 
 "A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line"
